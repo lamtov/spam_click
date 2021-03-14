@@ -22,6 +22,7 @@ conda install -y -c anaconda tk
 conda install -y -c anaconda pillow
 
 pip install selenium
+pip install fake-useragent
 pip install beautifulsoup4
 pip install lxml
 ```
