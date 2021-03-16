@@ -42,6 +42,6 @@ for window only
 
 ```angular2
 
-pyinstaller --onefile  -F C:/Users/Lam/Documents/TOVANLAM_MMO/python_reins/main_a_hoan.py -p C:/Users/Lam/.conda/envs/minimal_example/python.exe
+pyinstaller --onefile  -F C:/Users/Lam/Documents/TOVANLAM_MMO/PYTHON_AUTO_CLICK/main_a_hoan_jerkcum.py -p C:/Users/Lam/.conda/envs/minimal_example/python.exe
 
 ```
